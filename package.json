@@ -1,0 +1,24 @@
+{
+  "name": "apollo-api-gateway",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mywebula/apollo-api-gateway.git"
+  },
+  "author": "MyWebula Ltd",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/mywebula/apollo-api-gateway/issues"
+  },
+  "homepage": "https://github.com/mywebula/apollo-api-gateway#readme"
+}
